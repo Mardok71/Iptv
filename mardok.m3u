@@ -25,21 +25,21 @@ https://mytivu.it/Application/Channels/TV8.php
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/20_Mediaset_-_Logo_2018.svg/246px-20_Mediaset_-_Logo_2018.svg.png" group-title="ITALY",20 Mediaset
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/320px-Rai_4_-_Logo_2016.svg.png",Rai 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/archive/c/cd/20210322112407%21Logo_Iris_TV.png",Iris
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/320px-Rai_5_-_Logo_2017.svg.png",Rai 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/640px-Rai_Movie_-_Logo_2017.svg.png",Rai Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/640px-Rai_Premium_-_Logo_2017.svg.png",Rai Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/61/Cielo_TV_logo.svg/320px-Cielo_TV_logo.svg.png",Cielo
 https://mytivu.it/Application/Channels/Cielo.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/240px-Twentyseven_logo.svg.png" group-title="ITALY",Twenty Seven
@@ -78,10 +78,10 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/320px-Rai_Gulp_-_Logo_2017.svg.png",Rai Gulp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/640px-Rai_Yoyo_-_Logo_2017.svg.png",Rai Yoyo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/f0/Cartoonito_Logo_2017.png/800px-Cartoonito_Logo_2017.png",Cartoonito
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
@@ -89,7 +89,7 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(la)/
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rai_News_24.svg/640px-Rai_News_24.svg.png",Rai News 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sky_TG24_-_Logo_2021.svg/320px-Sky_TG24_-_Logo_2021.svg.png",Sky TG24
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/1a/Mediaset_TGCom24.png/320px-Mediaset_TGCom24.png",TGCOM 24
@@ -100,16 +100,16 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kf)/
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/320px-Rai_Storia_-_Logo_2017.svg.png",Rai Storia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/512px-Mediaset_Extra_logo.svg.png",Mediaset Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rai_Sport_%2B_HD_-_Logo_2017.svg/512px-Rai_Sport_%2B_HD_-_Logo_2017.svg.png",Rai Sport + HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/512px-Rai_Sport_-_Logo_2017.svg.png",Rai Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&output=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/320px-Motor_Trend_logo.svg.png",Motor Trend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/c/c0/Sportitalia_Logo.JPG",Sportitalia
@@ -131,7 +131,7 @@ https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/320px-Rai_Scuola_-_Logo_2017.svg.png",Rai Scuola
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/01/105.png",Radio 105 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ec)/manifest.mpd
@@ -142,7 +142,7 @@ https://58d921499d3d3.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(er)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png", Rai Radio 2 Visual
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/25/RTL_102_5_logo.svg/240px-RTL_102_5_logo.svg.png",RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Virgin_Radio_Italy_logo.svg/253px-Virgin_Radio_Italy_logo.svg.png",VIRGIN RADIO
